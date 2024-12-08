@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ange-gardien1
-- 👀 I’m interested in machine learning, web development, and gaming.
+- 👋 Hi, I’m Ange Gardien
+- 👀 I’m interested in machine learning and web development.
 - 💞️ I’m looking to collaborate on open-source web development projects or machine learning research.
 - 📫 you can reach me via email at angegirishyaka@gmail.com.
 - ⚡My Portfolio https://angegardien-seven.vercel.app/
