@@ -5,7 +5,7 @@ I'm a **backend engineer** passionate about **machine learning** and **web devel
 ---
 
 ### 🌱 **About Me**
-- 🛠️ Backend Engineer | Dream Campus | Bethel School of Technology Alumnus.
+- 🛠️ Backend Engineer  | Bethel School of Technology Alumnus.
 - 🎯 Focused on creating robust systems for web and data-driven applications.
 - 🧠 Exploring the intersection of **machine learning** and **smart systems**.
 
